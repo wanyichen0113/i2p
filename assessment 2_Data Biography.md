@@ -85,13 +85,13 @@ _However, these ethical considerations are not merely related to data collection
 
 ### References
 
-_[1]	I. Airbnb, “Behind Inside Airbnb,” 2020. http://insideairbnb.com/behind.html._
-_[2]	J. Sixsmith and C. D. Murray, “Ethical Issues in the Documentary Data Analysis of Internet Posts and Archives,” Qual. Health Res., vol. 11, no. 3, pp. 423–432, 2001._
-_[3]	A. P. Association, “Ethical principles of psychologists and code of conduct.,” 2017. http://www.apa.org/ethics/code.html._
-_[4]	B. P. Society, “Ethical principles,” Psychologist, pp. 6,33-35, 1993._
-_[5]	B. S. Association, “BSA statement of ethical practice,” 1993. http://www.britsoc.org.uk/ethgu2.htm._
-_[6]	O. H. Association, “Oral history evaluation guidelines,” 1996. http://http//:www.baylor.edu/~OHA/EvaluationGuidelines.html%23OralHistoryEvaluationGuidelines._
-_[7]	Airbnb, “Privacy Policy,” 2020. https://www.airbnb.co.uk/help/article/2855/privacy-policy?_set_bev_on_new_domain=1606105007_ZjU4ZWI3MDk3ZWNi._
-_[8]	J. S. Saltz and N. Dewar, “Data science ethical considerations: a systematic literature review and proposed project framework,” Ethics Inf. Technol., vol. 21, no. 3, pp. 197–208, 2019, doi: 10.1007/s10676-019-09502-5._
+_[1]	I. Airbnb, “Behind Inside Airbnb,” 2020. http://insideairbnb.com/behind.html._  
+_[2]	J. Sixsmith and C. D. Murray, “Ethical Issues in the Documentary Data Analysis of Internet Posts and Archives,” Qual. Health Res., vol. 11, no. 3, pp. 423–432, 2001._  
+_[3]	A. P. Association, “Ethical principles of psychologists and code of conduct.,” 2017. http://www.apa.org/ethics/code.html._  
+_[4]	B. P. Society, “Ethical principles,” Psychologist, pp. 6,33-35, 1993._  
+_[5]	B. S. Association, “BSA statement of ethical practice,” 1993. http://www.britsoc.org.uk/ethgu2.htm._  
+_[6]	O. H. Association, “Oral history evaluation guidelines,” 1996. http://http//:www.baylor.edu/~OHA/EvaluationGuidelines.html%23OralHistoryEvaluationGuidelines._  
+_[7]	Airbnb, “Privacy Policy,” 2020. https://www.airbnb.co.uk/help/article/2855/privacy-policy?_set_bev_on_new_domain=1606105007_ZjU4ZWI3MDk3ZWNi._  
+_[8]	J. S. Saltz and N. Dewar, “Data science ethical considerations: a systematic literature review and proposed project framework,” Ethics Inf. Technol., vol. 21, no. 3, pp. 197–208, 2019, doi: 10.1007/s10676-019-09502-5._  
 
  

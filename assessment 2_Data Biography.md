@@ -12,9 +12,9 @@ _Airbnb collects data from users who have registered to rent houses in London on
 
 ### 2. Why did they collect it?
 
-_Airbnb collects data to analyze their user needs, adapt to and expand user market, and increase company profits.
+Airbnb collects data to analyze their user needs, adapt to and expand user market, and increase company profits.
 
-Inside Airbnb collects data to help people research Airbnb issues and their impact on cities in all aspects and provide data support for relevant map-making and visualization._
+Inside Airbnb collects data to help people research Airbnb issues and their impact on cities in all aspects and provide data support for relevant map-making and visualization.
 
 ---
 
